@@ -1,0 +1,14 @@
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/bin/Debug/net8.0/FindMatchStringWithoutSplit
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/bin/Debug/net8.0/FindMatchStringWithoutSplit.deps.json
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/bin/Debug/net8.0/FindMatchStringWithoutSplit.runtimeconfig.json
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/bin/Debug/net8.0/FindMatchStringWithoutSplit.dll
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/bin/Debug/net8.0/FindMatchStringWithoutSplit.pdb
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/FindMatchStringWithoutSplit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/FindMatchStringWithoutSplit.AssemblyInfoInputs.cache
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/FindMatchStringWithoutSplit.AssemblyInfo.cs
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/FindMatchStringWithoutSplit.csproj.CoreCompileInputs.cache
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/FindMatchStringWithoutSplit.dll
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/refint/FindMatchStringWithoutSplit.dll
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/FindMatchStringWithoutSplit.pdb
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/FindMatchStringWithoutSplit.genruntimeconfig.cache
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/ref/FindMatchStringWithoutSplit.dll
