@@ -10,6 +10,19 @@ sm = "Yes I am Yes , JelloOne YesNo";
 Console.WriteLine($"The number of counter is : {counter}" );
 class EvalString 
 {
+
+    public static int flatlandSpaceStations(int n, int[] c) {
+        Array.Sort(c);
+        int result = c[0];
+        for (int i = 1; i < c.Length; i++) {
+            result = Math.Max(result, (c[i] - c[i - 1]) / 2);
+            Console.WriteLine($"Current {result} from 0 station to to median");
+        }
+        result = Math.Max(result, n - 1 - c[c.Length - 1]);
+        return result;
+
+    }
+
     public static int FindCalcEnumString(string find, string fullText)
     {
 
@@ -37,5 +50,7 @@ class EvalString
 
 
     }
+
+     
 }
 

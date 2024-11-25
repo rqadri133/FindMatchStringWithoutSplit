@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindMatchStringWithoutSplit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b2c8f4647f652e004e813f9db00ca9810be45ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindMatchStringWithoutSplit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindMatchStringWithoutSplit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

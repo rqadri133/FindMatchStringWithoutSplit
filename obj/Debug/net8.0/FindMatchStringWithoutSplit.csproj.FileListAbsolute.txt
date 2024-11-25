@@ -12,3 +12,4 @@
 /Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/FindMatchStringWithoutSplit.pdb
 /Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/FindMatchStringWithoutSplit.genruntimeconfig.cache
 /Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/ref/FindMatchStringWithoutSplit.dll
+/Users/syedqadri/Documents/FindMatchStringWithoutSplit/obj/Debug/net8.0/FindMatchStringWithoutSplit.sourcelink.json
